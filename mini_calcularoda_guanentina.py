@@ -9,6 +9,9 @@ print("5 potencia")
 print("6 logaritmo")
 
 opc = int(input("digite el numero de la operacion"))
+if opc == 7:
+    r = error
+
 x = int(input("ingrese un numero"))
 y = int(input("ingrese un numero"))
 
